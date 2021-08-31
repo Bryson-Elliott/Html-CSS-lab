@@ -1,12 +1,16 @@
 #box-1 {
     height: 50px;
-    width: max-content;
-    color: gray;
+    width: 100px;
+    background-color: gray;
 }
 
 #box-2 {
     height: 30px;
-    width: max-content;
-    color: black;
+    width: 100px;
+    background-color: black;
 }
 
+#box-3 {
+    height: max-content;
+
+}
