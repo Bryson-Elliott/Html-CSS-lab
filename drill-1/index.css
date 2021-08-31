@@ -1,0 +1,12 @@
+#box-1 {
+    height: 50px;
+    width: max-content;
+    color: gray;
+}
+
+#box-2 {
+    height: 30px;
+    width: max-content;
+    color: black;
+}
+
