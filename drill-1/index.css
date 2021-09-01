@@ -1,16 +1,23 @@
 #box-1 {
-    height: 50px;
-    width: 100px;
-    background-color: gray;
+    height: 75px;
+    width: 1440px;
+    background-color: rgb(70, 70, 70);
 }
 
 #box-2 {
-    height: 30px;
-    width: 100px;
+    height: 50px;
+    width: 1440px;
     background-color: black;
+    position: fixed;
+    bottom: 0%;
 }
 
 #box-3 {
-    height: max-content;
-
+    height: 990px;
+    background-color: rgb(221, 220, 220);
+    width: 1000px;
+    margin: 0 auto;
+}
+body {
+    background-color: grey;
 }
